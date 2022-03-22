@@ -1,0 +1,11 @@
+{
+  "sdkVersion": "1.7", 
+  // "apiKey": "<REPLACE ME>", 
+  // "businessId": "<REPLACE ME>", 
+  "logo": "", 
+  "favicon": "",
+  "googleTagManagerName": "dataLayer", 
+  "googleTagManagerId": "", 
+  "googleAnalyticsId": "", 
+  "conversionTrackingEnabled": true
+}
